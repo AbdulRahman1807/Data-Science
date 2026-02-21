@@ -27,7 +27,7 @@
 
 </div>
 
-> 🌸 A structured collection of **Machine Learning**, **Data Science**, and **ML Engineering** projects built on real-world datasets and optimized pipelines. This repository is the **central hub** linking all individual model repositories — each one a focused, clean implementation of a core ML concept.
+>  A structured collection of **Machine Learning**, **Data Science**, and **ML Engineering** projects built on real-world datasets and optimized pipelines. This repository is the **central hub** linking all individual model repositories — each one a focused, clean implementation of a core ML concept.
 
 ```
   abdulrahman1807 / Data-Scientist
@@ -65,7 +65,9 @@
 │                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
+
 </div>
+
 ---
 
 <div align="center">
@@ -85,7 +87,9 @@
 | 📈 **Linear Regression** | OLS / Gradient Descent | Baseline continuous prediction | [![Repo](https://img.shields.io/badge/VIEW-C9B8E8?style=flat-square&logo=github&logoColor=4A2A7A)](https://github.com/AbdulRahman1807/Linear-Regression) |
 | 🌲 **Random Forest Regression** | Ensemble of Decision Trees | Robust non-linear regression | [![Repo](https://img.shields.io/badge/VIEW-F9C8D4?style=flat-square&logo=github&logoColor=7A2A3A)](https://github.com/AbdulRahman1807/Random-Forest-Regression) |
 | ⚡ **XGBoost Regressor** | Gradient Boosting | High-accuracy structured data regression | [![Repo](https://img.shields.io/badge/VIEW-D4EAC8?style=flat-square&logo=github&logoColor=2A5A3A)](https://github.com/AbdulRahman1807/XGBRegressor) |
+
 </div>
+
 ---
 
 ### ✦ CLASSIFICATION
@@ -105,6 +109,7 @@
 | ⚡ **XGBoost Classifier** | Gradient Boosting + Regularization | State-of-the-art structured data | [![Repo](https://img.shields.io/badge/VIEW-B8D8F9?style=flat-square&logo=github&logoColor=2A4A7A)](https://github.com/AbdulRahman1807/XGBClassifier) |
   
 </div>
+
 ---
 
 <div align="center">
@@ -124,6 +129,7 @@
 | 🔭 **DBSCAN** | Density-based | Arbitrary shapes + noise/anomaly detection | [![Repo](https://img.shields.io/badge/VIEW-F9E8C8?style=flat-square&logo=github&logoColor=7A5A2A)](https://github.com/AbdulRahman1807/dbscan) |
   
 </div>
+
 ---
 
 <div align="center">
@@ -136,7 +142,10 @@
 
 > The engineering layer that separates good models from **great** ones.
 
+</div>
+
 ```
+
   CV & Feature Selection Pipeline
   │
   ├── 🔁  K-Fold Cross Validation ────── Honest generalization estimate
@@ -146,7 +155,9 @@
   ├── 🎯  Wrapper Method ─────────────── Model-driven recursive selection
   │        └── RFE · Forward / Backward Selection
   └── 💾  Model Serialization ─────────── Joblib — save, load, ship
+
 ```
+
 <div align="center">
   
 | Component | Purpose |
@@ -158,6 +169,7 @@
 | ✅ `Joblib Serialization` | Persist trained models to disk — production-ready deployment |
 
 </div>
+
 ---
 
 <div align="center">
@@ -179,7 +191,6 @@
 
 </div>
 
----
 
 <div align="center">
 

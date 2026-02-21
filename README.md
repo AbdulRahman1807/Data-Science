@@ -14,8 +14,8 @@
 <br/>
 
 [![Profile](https://img.shields.io/badge/Main_Profile-C9B8E8?style=for-the-badge&logo=github&logoColor=4A2A7A)](https://github.com/AbdulRahman1807)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-F9C8D4?style=for-the-badge&logo=linkedin&logoColor=7A2A3A)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D4EAC8?style=for-the-badge&logo=gmail&logoColor=2A5A3A)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F9C8D4?style=for-the-badge&logo=linkedin&logoColor=7A2A3A)](https://linkedin.com/in/abdul-rahman-rsa)
+[![Email](https://img.shields.io/badge/Email-D4EAC8?style=for-the-badge&logo=gmail&logoColor=2A5A3A)](mailto:arrsa1807@gmail.com)
 
 </div>
 
